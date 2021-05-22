@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/sanjay.sivaji.79" target="blank">Facebook</a><br><br>
+<a href="https://fb.com/sanjay.sivaji.79" target="blank">Facebook</a><br>
 <a href="https://instagram.com/sanjay.rishi2000" target="blank">Instagram</a>
 </p>
 
