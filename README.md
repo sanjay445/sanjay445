@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjay-sivakumar-4b8b371a4/" target="blank"><img align="center" alt="https://www.linkedin.com/in/sanjay-sivakumar-4b8b371a4/" height="30" width="40" /></a>
 <a href="https://fb.com/sanjay.sivaji.79" target="blank"><img align="center"  alt="sanjay.sivaji.79" height="30" width="40" /></a>
 <a href="https://instagram.com/sanjay.rishi2000" target="blank"><img align="center"  alt="sanjay.rishi2000" height="30" width="40" /></a>
 </p>
