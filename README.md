@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/sanjay.sivaji.79" target="blank"></a>
-<a href="https://instagram.com/sanjay.rishi2000" target="blank"></a>
+<a href="https://fb.com/sanjay.sivaji.79" target="blank">Facebook</a><br><br>
+<a href="https://instagram.com/sanjay.rishi2000" target="blank">Instagram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
